@@ -1,7 +1,11 @@
-# Nome do projeto
+# Taxa de transmissão de uma doença
 
 ### 1) Definição do problema: 
-Que problema de negócios estamos tentando resolver?  
+
+![alt text](/home/mcalmeida/machine-learning/projects/neoway-case/2022-05-04_14-56.png)
+
+## Que problema estamos tentando resolver?  
+
 Avaliar os níveis de contaminação de um vírus em um determinado país. 
 Transmissão de pessoa por pessoa, elas devem estar conectadas
 As pessoas dentro de uma sociedade podem estar conectadas de alguma
