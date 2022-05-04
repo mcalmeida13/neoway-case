@@ -16,7 +16,7 @@ Sabe-se que a transmissão acontece de pessoa por pessoa, por isso elas devem es
 Já foi repassado também que a porbabilidade transmissão de um indivíduo A para B não é igual a de B para A, o que sugere que os atributos de cada indivíduo contribuem para a probabilidade de adoecer
 
 
-![alt text](https://github.com/mcalmeida13/neoway-case/blob/main/img/2022-05-04_14-56.png?raw=true)
+![alt text](https://github.com/mcalmeida13/neoway-case/blob/main/img/2022-05-04_15-08.png?raw=true)
 
 Além desse dataset, foi fornecido outro onde cada linha rep e cada pessoa possui um conjunto de atributos.
 Este vírus afeta esta sociedade como descrito a seguir:
