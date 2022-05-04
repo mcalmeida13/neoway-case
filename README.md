@@ -57,6 +57,8 @@ lista das conexões e algumas características das mesmas
 
 #### Como esses dados se comunicam?
 
+![alt text](https://github.com/mcalmeida13/neoway-case/blob/main/img/2022-05-04_17-22.png?raw=true)
+
 ## 3) Features:
 
 Quais partes de nossos dados vamos usar para nosso modelo? 
