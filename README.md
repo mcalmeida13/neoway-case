@@ -2,14 +2,21 @@
 
 ### 1) Definição do problema: 
 
-![alt text](https://github.com/mcalmeida13/neoway-case/blob/main/2022-05-04_14-56.png?raw=true)
-
 ## Que problema estamos tentando resolver?  
 
-Avaliar os níveis de contaminação de um vírus em um determinado país. 
-Transmissão de pessoa por pessoa, elas devem estar conectadas
-As pessoas dentro de uma sociedade podem estar conectadas de alguma
-maneira (familia, amizade ou trabalho) e cada pessoa possui um conjunto de atributos.
+Este case tem como objetivo avaliar os níveis de contaminação de um vírus no país X, gerando insights através de dados fornecidos pelo Gorverno.
+
+![alt text](https://github.com/mcalmeida13/neoway-case/blob/main/2022-05-04_14-56.png?raw=true)
+
+
+
+
+Sabe-se que a transmissão acontece de pessoa por pessoa, por isso elas devem estar conectadas de alguma maneira (familia, amizade ou trabalho). Foi fornecido um dataset com o nível de proximidade das pessoas e a frequência com que se encontram e a probabilidade da transmissão entre os indivíduos.
+
+Já foi repassado também que a porbabilidade transmissão de um indivíduo A para B não é igual a de B para A, o que sugere que os atributos de cada indivíduo contribuem para a probabilidade de adoecer
+
+
+Além desse dataset, foi fornecido outro onde cada linha rep e cada pessoa possui um conjunto de atributos.
 Este vírus afeta esta sociedade como descrito a seguir:
 ● a taxa de contaminação varia de pessoa para pessoa;
 ● a taxa de contaminação de uma pessoa A para B é diferente de B para A e depende
