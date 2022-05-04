@@ -27,15 +27,8 @@ Machine learning pode ajudar com insights para:
 2) prever a partir das features das duas pessoas a probabilidade de transmissão (Modelos de Regressão)
 
 ## 2) Dados:
-Se o Machine learning está obtendo insights de dados, quais dados temos? Como ele corresponde à definição do problema? 
-Dataset com cada entrada sendo as características dos usuários
-Dataset de interação
-Nossos dados são estruturados ou não estruturados? 
-Estruturados
-Estático ou streaming?
-Estáticos
+Datasets para o problema: 
 
-Para o desenvolvimentolução do problema considere os dois arquivos CSVo e res: 
 #### `individuos_espec.csv`
 
 características de cada indivíduo 
@@ -64,12 +57,7 @@ lista das conexões e algumas características das mesmas
 
 #### Como esses dados se comunicam?
 
-## 3) Avaliação:
-O que define o sucesso? 
-Um modelo de Machine learning com 95% de precisão é bom o suficiente?
-
-
-## 4) Features:
+## 3) Features:
 
 Quais partes de nossos dados vamos usar para nosso modelo? 
 O dataset está preenchido com p_v1_v2
@@ -78,13 +66,23 @@ Temos também como fazer um Join de datasets para aumentar a feature
 
 Como o que já sabemos pode influenciar isso?
 
+## 4) Projeto:
+
+Projeto está estruturado da seguinte forma:
+- Exploração
+    - Indivíduos (`individuos_EDA.ipynb`)
+    - Conexões (`conexoes_EDA.ipynb`)
+
+- Preparação
+
+- Modelagem
+
+
 ## 5) Modelagem:
 Qual modelo você deve escolher?
 Uma regressão simples, máximo polinomial
 Como você pode melhorá-lo? Como comparar com outros modelos?
 
-
-## 6) Experimentação:
 O que mais poderíamos tentar? 
 Nosso modelo implantado faz o que esperávamos? 
 Como as outras etapas mudam com base no que encontramos?
