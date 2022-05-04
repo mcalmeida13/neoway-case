@@ -2,7 +2,7 @@
 
 ### 1) Definição do problema: 
 
-![alt text](/home/mcalmeida/machine-learning/projects/neoway-case/2022-05-04_14-56.png)
+![alt text](https://github.com/mcalmeida13/neoway-case/blob/main/2022-05-04_14-56.png?raw=true)
 
 ## Que problema estamos tentando resolver?  
 
